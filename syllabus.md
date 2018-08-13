@@ -16,7 +16,7 @@ This course may differ from the math courses you have had in the past. Rather th
 
 ## Course topics
 
-As a backdrop for learning about mathematical statements and proofs, we will explore the basics of a few different areas of mathematics: logic, set theory, functions and relations, elementary number theory, and graph theory.
+As a backdrop for learning about mathematical statements and proofs, we will explore the basics of a few different areas of mathematics: logic, sets, functions, number theory, and graph theory.
 
 ## Rough plan
 
