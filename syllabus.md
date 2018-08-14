@@ -14,9 +14,13 @@ Office hours: TBA, and by appointment
 
 This course may differ from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will seek to be able to justify why an answer is correct based on logical principles. Such a justification is referred to as a *proof*, and is the central concept in mathematics. We aim to explore the process of mathematical inquiry and discovery and learn skills for giving proofs justifying why our conclusions are correct. In this class it will be more important to be able to ask good questions than to find solutions, and more important to find flaws with a given answer than to blindly apply a formula.
 
-## Course topics
-
 As a backdrop for learning about mathematical statements and proofs, we will explore the basics of a few different areas of mathematics: logic, sets, functions, number theory, and graph theory.
+
+## Expected learning outcomes
+
+* Students will have knowledge of content including logic, sets, functions, number theory, and graph theory
+* Students will be able to read and write mathematical proofs in content areas
+* Students will be able to read, comprehend, and explain formal mathematical definitions and statements
 
 ## Rough plan
 
