@@ -12,32 +12,32 @@ Office hours: TBA, and by appointment
 
 ## Course goals
 
-This course may differ from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will seek to be able to justify why an answer is correct based on logical principles. Such a justification is referred to as a *proof*, and is the central concept in mathematics. We aim to explore the process of mathematical inquiry and discovery and learn skills for giving proofs justifying why our conclusions are correct. In this class it will be more important to be able to ask good questions than to find solutions, and more important to find flaws with a given answer than to blindly apply a formula.
+This course may differ from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will seek to be able to justify why an answer is correct based on logical principles. Such a justification is referred to as a *proof*, and is the central concept in mathematics. We aim to explore the process of mathematical inquiry and discovery and learn skills for giving proofs justifying why our conclusions are correct. In this class it will be more important to be able to ask good questions than to find solutions, and more important to find flaws in a given answer than to blindly apply a formula.
 
-As a backdrop for learning about mathematical statements and proofs, we will explore the basics of a few different areas of mathematics: logic, sets, functions, number theory, and graph theory.
+As a backdrop for learning about mathematical formalism and proofs, we will learn about several different areas of mathematics: logic, sets, functions, number theory, and graph theory.
 
-## Expected learning outcomes
+## Anticipated learning outcomes
 
-* Students will have knowledge of content including logic, sets, functions, number theory, and graph theory
+* Students will possess an introductory level of knowledge in logic, sets, functions, number theory, and graph theory
 * Students will be able to read and write mathematical proofs in content areas
-* Students will be able to read, comprehend, and explain formal mathematical definitions and statements
+* Students will be able to read, comprehend, and explain formal mathematical definitions and statements of the appropriate level
 
 ## Rough plan
 
-* Weeks 1&ndash;3: Chapter ?
-* Weeks 4&ndash;7: Chapter ?
-* Weeks 8&ndash;10: Chapter ?
-* Weeks 11&ndash;13: Chapter ?
-* Weeks 14&ndash;15: Chapter ?
+* Weeks 1&ndash;3: Chapters 1-2
+* Weeks 4&ndash;6: Chapter 3-4
+* Weeks 7&ndash;9: Chapters 4-5
+* Weeks 10&ndash;12: Chapter 7
+* Weeks 13&ndash;15: Chapter 9
 
 ## Grading
 
 * Exam 1 15%
 * Exam 2 15%
 * Exam 3 15%
-* Exam 4 (non-cumulative final) 25%
-* Daily prep and classwork 10%
-* Homework 20%
+* Exam 4 (semi-cumulative) 25%
+* Daily prep and classwork 5%
+* Homework 25%
 
 ## Tentative exam dates
 
@@ -48,8 +48,8 @@ As a backdrop for learning about mathematical statements and proofs, we will exp
 
 ## Daily prep and classwork
 
-Reading will be assigned prior to each class. You are expected to arrive prepared to ask questions and discuss the material. All homework assignments will be started in-class as group work. Daily participation and collaboration are required. A small discretionary portion of your grade will be based on your attendance, attention, and collaboration.
+Reading may be assigned prior to each class. You are expected to arrive prepared to ask questions and discuss the material. Much of our class time will be devoted to group activities and homework assignments. Daily participation and collaboration are required. A small discretionary portion of your grade will be based on your attendance, attention, and collaboration during this time.
 
 ## Homework
 
-Homework assignments will be assigned weekly, and collected on the following Thursday. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. I encourage you to collaborate with your peers, and I won't discourage you from using online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Homework assignments will be given weekly, and collected on the following Monday. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. I encourage you to collaborate with your peers, and I don't discourage you from using online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
