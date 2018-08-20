@@ -18,9 +18,9 @@ As a backdrop for learning about mathematical formalism and proofs, we will lear
 
 ## Anticipated learning outcomes
 
-* Students will possess an introductory level of knowledge in logic, sets, functions, number theory, and graph theory
-* Students will be able to read and write mathematical proofs in content areas
-* Students will be able to read, comprehend, and explain formal mathematical definitions and statements of the appropriate level
+* Possess an introductory level of knowledge in logic, sets, functions, number theory, and graph theory
+* Read and write mathematical proofs in content areas
+* Read, comprehend, and explain formal mathematical definitions and statements (of the appropriate level)
 
 ## Rough plan
 
@@ -32,19 +32,19 @@ As a backdrop for learning about mathematical formalism and proofs, we will lear
 
 ## Grading
 
-* Exam 1 15%
-* Exam 2 15%
-* Exam 3 15%
-* Exam 4 (semi-cumulative) 25%
+* Exam one 15%
+* Exam two 15%
+* Exam three 15%
+* Final (semi-cumulative) 25%
 * Daily prep and classwork 5%
 * Homework 25%
 
 ## Tentative exam dates
 
-* Exam 1: ?
-* Exam 2: ?
-* Exam 3: ?
-* Exam 4: Wednesday, December 12 from 12:00&ndash;2:00pm
+* Exam one: Monday, September 17
+* Exam two: Monday, October 15
+* Exam three: Monday, November 12
+* Final: Wednesday, December 12 from 12:00&ndash;2:00pm
 
 ## Daily prep and classwork
 
@@ -52,4 +52,4 @@ Reading may be assigned prior to each class. You are expected to arrive prepared
 
 ## Homework
 
-Homework assignments will be given weekly, and collected on the following Monday. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. I encourage you to collaborate with your peers, and I don't discourage you from using online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Homework assignments will be given weekly, and collected on the following Monday. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
