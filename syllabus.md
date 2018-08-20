@@ -12,7 +12,7 @@ Office hours: TBA, and by appointment
 
 ## Course goals
 
-This course may differ from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will seek to be able to justify why an answer is correct based on logical principles. Such a justification is referred to as a *proof*, and is the central concept in mathematics. We aim to explore the process of mathematical inquiry and discovery and learn skills for giving proofs justifying why our conclusions are correct. In this class it will be more important to be able to ask good questions than to find solutions, and more important to find flaws in a given answer than to blindly apply a formula.
+This course may differ from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will seek to be able to justify why an answer is correct based on logical principles. Such a justification is referred to as a *proof*, and is the central concept in mathematics. We aim to explore the process of mathematical inquiry and discovery and learn skills for giving proofs that allow others to verify our conclusions are correct. In this class it will be more important to be able to ask good questions than to find solutions, and more important to find flaws in a given answer than to blindly apply a formula.
 
 As a backdrop for learning about mathematical formalism and proofs, we will learn about several different areas of mathematics: logic, sets, functions, number theory, and graph theory.
 
