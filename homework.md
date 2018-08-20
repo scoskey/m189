@@ -6,4 +6,6 @@
 
 2. Review your work from Activity 1, questions 5 and 6. Write a mathematical statement summarizing your conclusion (theorem). Then, as best as you can, write a logical explanation of why your statement is true (proof).
 
-3. ...
+3. Scheinerman, exercises 3.6, 3.7
+
+4. ...
