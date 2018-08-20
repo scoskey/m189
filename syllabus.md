@@ -48,7 +48,7 @@ As a backdrop for learning about mathematical formalism and proofs, we will lear
 
 ## Daily prep and classwork
 
-Reading may be assigned prior to each class. You are expected to arrive prepared to ask questions and discuss the material. Much of our class time will be devoted to group activities and homework assignments. Daily participation and collaboration are required. A small discretionary portion of your grade will be based on your attendance, attention, and collaboration during this time.
+Reading may be assigned prior to each class. You are expected to arrive prepared to ask questions and discuss the material. Much of our class time will be devoted to group activities and homework assignments. Daily participation and collaboration are required. Sometimes in-class activities will be collected in order to provide fast feedback. A small discretionary portion of your grade will be based on preparation, attention, and collaboration during class time, and completion of in-class activities.
 
 ## Homework
 
