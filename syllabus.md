@@ -8,7 +8,7 @@ Textbook: Edward Scheinerman, *Mathematics: a discrete introduction*, 3rd editio
 Web site: `scoskey.org/m187`  
 My email: `scoskey@boisestate.edu`  
 My office: MB 238-B  
-Office hours: TBA, and by appointment
+Office hours: M,W,F from 11:30am&ndash;12:15pm, and by appointment
 
 ## Course goals
 
