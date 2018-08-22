@@ -52,4 +52,4 @@ Reading may be assigned prior to each class. You are expected to arrive prepared
 
 ## Homework
 
-Homework assignments will be given weekly, and collected on the following Monday. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Homework assignments will be given weekly, and collected on the following Tuesday at 12pm. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
