@@ -10,4 +10,4 @@
 
 4. Scheinerman, exercises 4.4, 4.12(a)
 
-5. ...
+5. Scheinerman, exercise 5.1
