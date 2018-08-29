@@ -1,5 +1,15 @@
 # Math 187 homework
 
+## Week 2 (Due Wednesday, September 5 in class)
+
+1. Scheinerman, exercises 5.18, 5.20
+
+2. Scheinerman, exercise 6.6
+
+3. Scheinerman, exercises 7.3, 7.4
+
+4. ...
+
 ## Week 1 (Due Tuesday, August 28 at 12pm)
 
 1. Read the student's preface and sections 1&ndash;5 of Scheinerman. Then write a one or two paragraph response. You may use the following questons as prompts to help you think of ideas. What do we seek to achieve in mathematics? What methods do we use to achieve these goals? What is the role of logic in the development of mathematics? What are the roles of definitions, theorems, and proofs? What questions do you have?
