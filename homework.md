@@ -1,6 +1,6 @@
 # Math 187 homework
 
-## Week 2 (Due Thursday, September 6 at 12pm)
+## Week 2 (Due Thursday, September 6 at 2pm)
 
 1. Scheinerman, exercises 5.6, 5.18, 5.20
 
