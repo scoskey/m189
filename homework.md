@@ -1,5 +1,13 @@
 # Math 187 homework
 
+## Week 3 (Due Tuesday, September 11 at 12pm)
+
+1. 9.6 (include a non-calculator explanation!), 9.11
+
+2. 10.1, 10.4
+
+3. 10.10, ...
+
 ## Week 2 (Due Thursday, September 6 at 2pm)
 
 1. Scheinerman, exercises 5.6, 5.18, 5.20
