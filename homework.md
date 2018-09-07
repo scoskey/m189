@@ -6,7 +6,7 @@
 
 2. 10.1, 10.4
 
-3. 10.10, ...
+3. 10.10
 
 ## Week 2 (Due Thursday, September 6 at 2pm)
 
