@@ -1,5 +1,11 @@
 # Math 187 homework
 
+## Week 4 (Due Tuesday, September 18 at 12pm)
+
+1. Scheinerman, 11.1, 11.4, 11.5
+
+2. ...
+
 ## Week 3 (Due Tuesday, September 11 at 12pm)
 
 1. 9.6 (include a non-calculator explanation!), 9.11
