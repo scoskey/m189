@@ -4,7 +4,7 @@
 
 1. Scheinerman, 11.1, 11.4, 11.5
 
-2. ...
+2. Scheinerman, 12.1, 12.3, 12.11
 
 ## Week 3 (Due Tuesday, September 11 at 12pm)
 
