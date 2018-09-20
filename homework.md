@@ -1,5 +1,11 @@
 # Math 187 homework
 
+## Week 5 ( Due Tuesday, September 25 at 12pm)
+
+1. Scheinerman, 17.2, 17.4, 17.12, 17.14
+
+2. The game of dominoes consists of a pack of tiles, each tile has two ends, and each end either has 0, 1, 2, 3, 4, 5, or 6 spots on it. How many tiles are there in a pack? How did you count it and why does it work?
+
 ## Week 4 (Due Tuesday, September 18 at 12pm)
 
 1. Scheinerman, 11.1, 11.4, 11.5
