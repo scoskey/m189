@@ -1,5 +1,13 @@
 # Math 187 homework
 
+## Week 6 (Due Tuesday, October 2 at 12pm)
+
+1. Scheinerman, 17.15
+
+2. Scheinerman, 18.1, 18.8, 18.11
+
+3. ...
+
 ## Week 5 ( Due Tuesday, September 25 at 12pm)
 
 1. Scheinerman, 17.2, 17.4, 17.12, 17.14
