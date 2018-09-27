@@ -6,7 +6,9 @@
 
 2. Scheinerman, 18.1, 18.8, 18.11
 
-3. ...
+3. Scheinerman, 19.1, 19.8
+
+4. Scheinerman, 20.5
 
 ## Week 5 ( Due Tuesday, September 25 at 12pm)
 
