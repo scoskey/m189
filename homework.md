@@ -4,9 +4,9 @@
 
 1. Scheinerman 20.10, 20.13
 
-2. Scheinerman 22.4(a)(e), 22.5(f)
+2. Scheinerman 22.4(a)(e), 22.5(a)(f)
 
-3. ...
+3. Scheinerman 22.10
 
 ## Week 6 (Due Tuesday, October 2 at 12pm)
 
