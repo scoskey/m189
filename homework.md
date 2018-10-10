@@ -1,12 +1,18 @@
 # Math 187 homework
 
+## Week 8 (Not due---just to study!)
+
+1. Scheinerman, Chapter 3 self test 14, 15, 18, 19, 20
+
+2. Scheinerman, Chapter 4 self test 3, 6, 7, 8, 15
+
 ## Week 7 (Due Tuesday, october 9 at 12pm)
 
-1. Scheinerman 20.10, 20.13
+1. Scheinerman, 20.10, 20.13
 
-2. Scheinerman 22.4(a)(e), 22.5(a)(f)
+2. Scheinerman, 22.4(a)(e), 22.5(a)(f)
 
-3. Scheinerman 22.10
+3. Scheinerman, 22.10
 
 ## Week 6 (Due Tuesday, October 2 at 12pm)
 
