@@ -1,5 +1,11 @@
 # Math 187 homework
 
+## Week 9 (Due Tuesday, October 23 at 12pm)
+
+1. Scheinerman, 24.2, 24.6, 24.8
+
+2. ...
+
 ## Week 8 (Not due---just to study!)
 
 1. Scheinerman, Chapter 3 self test 14, 15, 18, 19, 20
