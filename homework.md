@@ -4,7 +4,7 @@
 
 1. Scheinerman, 24.2, 24.6, 24.8
 
-2. ...
+2. Scheinerman, 24.3, 24.10
 
 3. Write the complete solution to Exam 2, Problem 6. You can earn up to 4 bonus points on the exam.
 
