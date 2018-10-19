@@ -6,6 +6,8 @@
 
 2. ...
 
+3. Write the complete solution to Exam 2, Problem 6. You can earn up to 4 bonus points on the exam.
+
 ## Week 8 (Not due---just to study!)
 
 1. Scheinerman, Chapter 3 self test 14, 15, 18, 19, 20
