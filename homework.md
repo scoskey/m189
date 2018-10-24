@@ -1,5 +1,11 @@
 # Math 187 homework
 
+## Week 10 (Due Tuesday, October 30 at 12pm)
+
+1. Scheinerman 25.2, 25.3, 25.4
+
+2. ...
+
 ## Week 9 (Due Tuesday, October 23 at 12pm)
 
 1. Scheinerman, 24.2, 24.6, 24.8
