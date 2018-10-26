@@ -4,7 +4,7 @@
 
 1. Scheinerman 25.2, 25.3, 25.4
 
-2. ...
+2. Scheinerman 26.1, 26.9, 26.11
 
 ## Week 9 (Due Tuesday, October 23 at 12pm)
 
