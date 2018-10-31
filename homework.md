@@ -1,5 +1,11 @@
 # Math 187 homework
 
+## Week 11 (Due Tuesday, November 6 at 12pm)
+
+1. Scheinerman 35.1, 35.2, 35.4, 35.9
+
+2. ...
+
 ## Week 10 (Due Tuesday, October 30 at 12pm)
 
 1. Scheinerman 25.2, 25.3, 25.4
