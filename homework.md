@@ -2,9 +2,11 @@
 
 ## Week 11 (Due Tuesday, November 6 at 12pm)
 
-1. Scheinerman 35.1, 35.2, 35.4, 35.9
+1. Complete and turn in the Clock Arithmetic handout.
 
-2. ...
+2. Scheinerman 35.1, 35.2, 35.4
+
+3. ...
 
 ## Week 10 (Due Tuesday, October 30 at 12pm)
 
