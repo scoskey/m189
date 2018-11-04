@@ -6,7 +6,7 @@
 
 2. Scheinerman 35.1, 35.2, 35.4
 
-3. ...
+3. Scheinerman 36.1
 
 ## Week 10 (Due Tuesday, October 30 at 12pm)
 
