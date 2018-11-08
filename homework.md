@@ -1,5 +1,15 @@
 # Math 187 homework
 
+## Week 12 (Not due---just to study!)
+
+1. Scheinerman 37.13
+
+2. Scheinerman 38.1, 38.3, 38.4
+
+3. Chapter 5 self test 1, 4, 5, 11, 13
+
+4. Chapter 7 self test 7, 12
+
 ## Week 11 (Due Tuesday, November 6 at 12pm)
 
 1. Complete and turn in the Clock Arithmetic handout.
