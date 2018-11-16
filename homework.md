@@ -1,10 +1,14 @@
 # Math 187 homework
 
+## Week 13 (Due Tuesday, November 27 at 12pm)
+
+1. Scheinerman 47.1, 47.2, 47.3, 47.16
+
 ## Week 12 (Not due---just to study!)
 
-1. Scheinerman 37.13
+1. Scheinerman, 37.13
 
-2. Scheinerman 38.1, 38.3, 38.4
+2. Scheinerman, 38.1, 38.3, 38.4
 
 3. Chapter 5 self test 1, 4, 5, 11, 13
 
@@ -14,15 +18,15 @@
 
 1. Complete and turn in the Clock Arithmetic handout.
 
-2. Scheinerman 35.1, 35.2, 35.4
+2. Scheinerman, 35.1, 35.2, 35.4
 
-3. Scheinerman 36.1
+3. Scheinerman, 36.1
 
 ## Week 10 (Due Tuesday, October 30 at 12pm)
 
-1. Scheinerman 25.2, 25.3, 25.4
+1. Scheinerman, 25.2, 25.3, 25.4
 
-2. Scheinerman 26.1, 26.9, 26.11
+2. Scheinerman, 26.1, 26.9, 26.11
 
 ## Week 9 (Due Tuesday, October 23 at 12pm)
 
