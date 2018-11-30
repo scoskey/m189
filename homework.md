@@ -1,5 +1,11 @@
 # Math 187 homework
 
+## Week 14 (Due Tuesday, December 4 at 12pm)
+
+1. Schenierman 49.4, 49.11, 49.12
+
+2. ...
+
 ## Week 13 (Due Tuesday, November 27 at 12pm)
 
 1. Scheinerman 47.1, 47.2, 47.3, 47.16
