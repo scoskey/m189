@@ -2,7 +2,7 @@
 
 ## Week 14 (Due Tuesday, December 4 at 12pm)
 
-1. Schenierman 49.4, 49.11, 49.12
+1. Schenierman 49.1(a) 49.4, 49.11, 49.12
 
 2. ...
 
