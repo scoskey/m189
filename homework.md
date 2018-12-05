@@ -1,5 +1,17 @@
 # Math 187 homework
 
+## Week 15 (Not due---just to study!)
+
+1. Chapter 1 self test 12, 18
+
+1. Chapter 2 self test 9, 14, 16
+
+2. Chapter 3 self test 14, 15, 20
+
+3. Chapter 4 self test 3, 6, 9, 11
+
+4. ...
+
 ## Week 14 (Due Thursday, December 5 at 12pm)
 
 1. Schenierman 49.1(a) 49.4, 49.11, 49.12
@@ -80,21 +92,21 @@
 
 ## Week 3 (Due Tuesday, September 11 at 12pm)
 
-1. 9.6 (include a non-calculator explanation!), 9.11
+1. Scheinerman, 9.6 (include a non-calculator explanation!), 9.11
 
-2. 10.1, 10.4
+2. Scheinerman, 10.1, 10.4
 
-3. 10.10
+3. Scheinerman, 10.10
 
 ## Week 2 (Due Thursday, September 6 at 2pm)
 
-1. Scheinerman, exercises 5.6, 5.18, 5.20
+1. Scheinerman, 5.6, 5.18, 5.20
 
-2. Scheinerman, exercise 6.6
+2. Scheinerman, 6.6
 
-3. Scheinerman, exercises 7.3, 7.4
+3. Scheinerman, 7.3, 7.4
 
-4. Scheinerman, exercise 9.9
+4. Scheinerman, 9.9
 
 ## Week 1 (Due Tuesday, August 28 at 12pm)
 
