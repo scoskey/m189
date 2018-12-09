@@ -10,7 +10,11 @@
 
 3. Chapter 4 self test 3, 6, 9, 11
 
-4. ...
+4. Chapter 5 self test 1(a)--(d), 9, 11
+
+5. Chapter 7 self test 1, 7, 11
+
+6. Chapter 9 self test 1, 2, 11, 17
 
 ## Week 14 (Due Thursday, December 5 at 12pm)
 
