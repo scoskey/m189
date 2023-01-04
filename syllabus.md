@@ -1,55 +1,50 @@
-# Math 187 syllabus
+# Math 189, Spring 2023
 
 ## Course information
 
-Meeting times: M,W,F from 10:30&ndash;11:20am  
-Meeting place: MB 139  
-Textbook: Edward Scheinerman, *Mathematics: a discrete introduction*, 3rd edition  
-Web site: `scoskey.org/m187`  
-My email: `scoskey@boisestate.edu`  
-My office: MB 238-B  
-Office hours: M,W,F from 11:30am&ndash;12:00pm, Tu from 10:30&ndash;11:00, and by appointment
+Meeting times: M,W,F from 1:30&ndash;2:45pm  
+Textbook: Oscar Levin, *Discrete Mathematics: An Open Introduction*, 3rd ed  
+Lecture notes: Lecture notes will be made available via OneNote  
+Homework: [Homework is published here](homework) and collected via Gradescope  
+Contact: `scoskey@boisestate.edu`  
+Office hours: TBA, and by appointment
 
-## Course goals
+## Course description
 
-This course may differ from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will seek to be able to justify why an answer is correct based on logical principles. Such a justification is referred to as a *proof*, and is the central concept in mathematics. We aim to explore the process of mathematical inquiry and discovery and learn skills for giving proofs that allow others to verify our conclusions are correct. In this class it will be more important to be able to ask good questions than to find solutions, and more important to find flaws in a given answer than to blindly apply a formula.
+This course may differ a little from the math courses you have had in the past. Rather than focusing solely on calculation and answer, we will spend some time learning the language to express complex statements and the logic to verify they are correct. We will spend particular effort in learning mathematical induction, which is a method to prove a statement is true in infinitely many cases at once.
 
-As a backdrop for learning about mathematical formalism and proofs, we will learn about several different areas of mathematics: logic, sets, functions, number theory, and graph theory.
+In addition to studying mathematical language and logic, we will cover several key content areas including combinatorics, graph theory, and number theory.
 
-## Anticipated learning outcomes
+### Anticipated learning outcomes
 
-* Possess an introductory level of knowledge in logic, sets, functions, number theory, and graph theory
-* Read and write mathematical proofs in content areas
-* Read, comprehend, and explain formal mathematical definitions and statements (of the appropriate level)
+* Comfort reading and writing mathematical language and logic
+* Read proofs and apply mathematical statements
+* Possess knowledge in content areas
+* Appreciation for abstract mathematics, problem-solving, rigor
 
-## Rough plan
+### Rough plan
 
-* Weeks 1&ndash;3: Chapters 1-2
-* Weeks 4&ndash;6: Chapter 3-4
-* Weeks 7&ndash;9: Chapters 4-5
-* Weeks 10&ndash;12: Chapter 7
-* Weeks 13&ndash;15: Chapter 9
+* Weeks 1-4: Mathematical language, sets and functions, combinatorics
+* Week 5: Catch-up and take-home exam
+* Weeks 6-9: Sequences, induction, logic, proofs
+* Week 10: Catch-up and take-home exam
+* Weeks 11-14: Graph theory, modular arithmetic
+* Weeks 15-16: Catch-up and take-home exam
+
+### Course format
+
+The course will be delivered through synchronous remote class sessions. Each session will include a mixture of questions on previous material, discussion of new material, and group activities.
 
 ## Grading
 
-* Exam one 15%
-* Exam two 15%
-* Exam three 15%
-* Final (semi-cumulative) 25%
-* Daily prep and classwork 5%
-* Homework 25%
+### Attendance, participation, and group activities 20%
 
-## Tentative exam dates
+You are expected to attend remote class sessions, and to be prepared to ask questions and discuss the material. Following the discussion, we will work on group activities, which will be submitted as a group via gradescope. A portion of your grade will be based on your attendance, preparedness, attention, collaboration, and completion of these activities.
 
-* Exam one: Monday, September 17
-* Exam two: Monday, October 15
-* Exam three: Monday, November 12
-* Final: Wednesday, December 12 from 12:00&ndash;2:00pm
+### Homework assignments 35%
 
-## Daily prep and classwork
+Homework will be assigned each week via Webwork. Most exercises will be graded by the system, but a few may be typewritten and instructor-graded. You are encouraged to collaborate with your peers, and to use any available resources. For typewritten answers, please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
 
-Reading may be assigned prior to each class. You are expected to arrive prepared to ask questions and discuss the material. Much of our class time will be devoted to group activities and homework assignments. Daily participation and collaboration are required. Sometimes in-class activities will be collected in order to provide fast feedback. A small discretionary portion of your grade will be based on preparation, attention, and collaboration during class time, and completion of in-class activities.
+### Take-home exams 15% x3
 
-## Homework
-
-Homework assignments will be given weekly, and collected on the following Tuesday at 12pm. I will check your work for completeness, and spot-check certain problems for correcteness and mathematical style. You are encouraged to collaborate with your peers, you are welcome to use online resources when you are stuck. But please keep in mind that you must always fully understand your solutions and most importantly *write them in your own words*.
+Take-home exams will be given during the 5th week, 10th week, and the finals week of the class.
