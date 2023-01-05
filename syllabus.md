@@ -4,8 +4,8 @@
 
 Meeting times: M,W,F from 1:30&ndash;2:45pm  
 Textbook: Oscar Levin, *Discrete Mathematics: An Open Introduction*, 3rd ed  
-Lecture notes: Lecture notes will be made available via OneNote  
-Homework: [Homework is published here](homework) and collected via Gradescope  
+Lecture notes: Class notes in Onenote  
+Homework: [Homework exercises](homework) and Gradescope collection  
 Contact: `scoskey@boisestate.edu`  
 Office hours: TBA, and by appointment
 
